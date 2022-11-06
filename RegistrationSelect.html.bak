@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>ProDep</title>
+<link rel = "StyleSheet" type = "text/css" href = "LogStyle.css">
+<link rel = "StyleSheet" type = "text/css" href = "External.css">
+<style>
+
+//Styles for the header starts here
+</style>
+</head>
+<body>
+		<div class="header">
+			<img src="proDep.png" alt="ProDep" />
+			<div class="header-right">
+				<a href="#">HOME</a>
+				<a class="active" href = "#">COMPONENTS</a>
+				<a href = "LoginSelect1.html">MILESTONES</a>
+				<a href = "AccountSelect.html">DOCUMENTS</a>
+				<a href="Gaurawa/contactUs/contactus.html">PRESENTATIONS</a>
+				<a href="AboutUs2.html">ABOUT</a>
+				<a href="AboutUs2.html">CONTACT</a>
+			</div>
+		</div>
+
+<div>
+	<center> <img src="proDep vision.png" alt="ProDep vision" > </center>
+	<center> <img src="proDep bot.png" alt="ProDep bot" > </center>
+	<center> <img src="proDep FB.png" alt="ProDep fb" > </center>
+	<center> <img src="proDep Twitter.png" alt="ProDep twitter" > </center>
+</div>
+
+</body>
+</html>
