@@ -12,23 +12,22 @@
 			<img src="proDep.png" alt="ProDep" />
 			<div class="header-right">
 				<a href="The Home Page.html">HOME</a>
-				<a href = "Components.html">COMPONENTS</a>
+				<a href = "Components.html">PROJECT SCOPE</a>
 				<a class="active" href = "#">MILESTONES</a>
 				<a href = "Documents.html">DOCUMENTS</a>
 				<a href="Presentations.html">PRESENTATIONS</a>
-				<a href="About.html">ABOUT</a>
-				<a href="AboutUs2.html">CONTACT</a>
+				<a href="About.html">ABOUT US</a>
+				<a href="AboutUs2.html">CONTACT US</a>
 			</div>
 		</div>
 	<center> <img src="milestones.png" alt="milestones logo" > </center>
 	<center> <img src="proDep Milestones.png" alt="ProDep Milestones" > </center>
 	
 	<div> 
-<br/>
-<br/>
-<br/>
-<br/>
-
-</div>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+	</div>
 
 </body>
