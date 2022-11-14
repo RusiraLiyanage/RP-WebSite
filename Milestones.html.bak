@@ -17,11 +17,10 @@
 				<a href = "Documents.html">DOCUMENTS</a>
 				<a href="Presentations.html">PRESENTATIONS</a>
 				<a href="About.html">ABOUT US</a>
-				<a href="AboutUs2.html">CONTACT US</a>
+				<a href="Contact Us.html">CONTACT US</a>
 			</div>
 		</div>
 	<center> <img src="milestones.png" alt="milestones logo" > </center>
-	<center> <img src="proDep Milestones.png" alt="ProDep Milestones" > </center>
 	
 	<div> 
 		<br/>
@@ -29,5 +28,9 @@
 		<br/>
 		<br/>
 	</div>
-
+	<center> <img src="camera_ready_poster.png" alt="camera ready poster logo" > </center>
+	<br/> <br/>
+	<center> <a href="" target="_blank"><img src="cameraReadyPoster.png" alt="camera ready poster" style="height:300;"> </a></center>
+	<br/> <br/>
+	<br/> <br/>
 </body>

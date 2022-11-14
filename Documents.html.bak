@@ -34,7 +34,7 @@
 	<a class="active" href = "Documents.html">DOCUMENTS</a>
     <a href="Presentations.html">PRESENTATIONS</a>
     <a href="About.html">ABOUT US</a>
-	<a href="AboutUs2.html">CONTACT US</a>
+	<a href="Contact Us.html">CONTACT US</a>
   </div>
 </div>
 
@@ -60,7 +60,7 @@
 	<div class="column">
 	</div>
 	<div class="column">
-		<a href="https://courseweb.sliit.lk/" target="_blank"><img src="Documents/log books.png" alt="log books" style="width:70%"></a>
+		<a href="https://drive.google.com/drive/folders/1ZmPO9LbsP-qkDXowQBrljkxofQWEczKK?usp=share_link" target="_blank"><img src="Documents/log books.png" alt="log books" style="width:70%"></a>
 	</div>
 	<div class="column">
 		<a href="https://courseweb.sliit.lk/" target="_blank"><img src="Documents/final reports.png" alt="final reports" style="width:70%"></a>
